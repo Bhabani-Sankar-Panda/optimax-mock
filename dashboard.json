@@ -6,7 +6,7 @@
     "securityDelta": 4,
     "usageScore": 35,
     "usageDelta": 4,
-    "technicalDebtScore": 8,
+    "technicalDebtScore": 12,
     "technicalDebtDelta": -3
   },
   "trend": [
