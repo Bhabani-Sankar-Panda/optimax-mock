@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "overallScore": 50,
+    "overallDelta": 8,
+    "securityScore": 33,
+    "securityDelta": 4,
+    "usageScore": 35,
+    "usageDelta": 4,
+    "technicalDebtScore": 8,
+    "technicalDebtDelta": -3
+  },
+  "trend": [
+    { "monthName": "July",      "label": "Jul", "isMonth": true,  "overall": 76, "security": 57 },
+    { "monthName": "",          "label": "",    "isMonth": false, "overall": 77, "security": 72 },
+    { "monthName": "August",    "label": "Aug", "isMonth": true,  "overall": 78, "security": 83 },
+    { "monthName": "",          "label": "",    "isMonth": false, "overall": 79, "security": 86 },
+    { "monthName": "September", "label": "Sep", "isMonth": true,  "overall": 76, "security": 76 },
+    { "monthName": "",          "label": "",    "isMonth": false, "overall": 77, "security": 80 },
+    { "monthName": "October",   "label": "Oct", "isMonth": true,  "overall": 80, "security": 84 },
+    { "monthName": "",          "label": "",    "isMonth": false, "overall": 81, "security": 93 },
+    { "monthName": "November",  "label": "Nov", "isMonth": true,  "overall": 9, "security": 89 },
+    { "monthName": "",          "label": "",    "isMonth": false, "overall": 76, "security": 80 },
+    { "monthName": "December",  "label": "Dec", "isMonth": true,  "overall": 74, "security": 75 }
+  ]
+}
