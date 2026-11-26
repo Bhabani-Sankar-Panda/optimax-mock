@@ -1,0 +1,25 @@
+{
+  "securityRisk": [
+    { "label": "Password Policies",                         "value": 75 },
+    { "label": "Session Settings",                          "value": 60 },
+    { "label": "Critical Profile & Permission Set Access",  "value": 90 },
+    { "label": "Debug Enabled Users",                       "value": 40 }
+  ],
+  "connectedApps": [
+    { "label": "Not Admin Approved",                         "value": 20 },
+    { "label": "Weak IP Relaxation Policy",                  "value": 30 },
+    { "label": "Refresh Token Rotation Disabled / Infinite", "value": 15 },
+    { "label": "Dangerous OAuth Flows Enabled",              "value": 25 },
+    { "label": "Excessive OAuth Scope (Full Access)",        "value": 10 }
+  ],
+  "insights": [
+    { "id": "S1", "title": "Enable Admin Login As Any User Enabled", "issues": 1, "severity": "High",   "icon": "🔒" },
+    { "id": "S2", "title": "Secret answers are not obscured",        "issues": 1, "severity": "Low",    "icon": "🔒" },
+    { "id": "S3", "title": "Lockout period not correct",             "issues": 1, "severity": "Low",    "icon": "🔒" },
+    { "id": "S4", "title": "Email identity verification disabled",   "issues": 1, "severity": "Low",    "icon": "🔒" },
+    { "id": "S5", "title": "Session timeout must be 15 minutes",     "issues": 1, "severity": "Low",    "icon": "🔒" },
+    { "id": "S6", "title": "Commerce Session Permission Set License Seats", "issues": 1, "severity": "Medium", "icon": "🔒" },
+    { "id": "S7", "title": "Password lifetime requirement not enabled",     "issues": 1, "severity": "Medium", "icon": "🔒" },
+    { "id": "S8", "title": "IP range enforcement disabled",          "issues": 1, "severity": "Medium", "icon": "🔒" }
+  ]
+}
