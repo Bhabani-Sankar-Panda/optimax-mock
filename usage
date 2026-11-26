@@ -1,0 +1,20 @@
+{
+  "orgLimits": [
+    { "label": "Data Storage",   "used": 420,  "limitValue": 500,   "percentUsed": 84 },
+    { "label": "File Storage",   "used": 150,  "limitValue": 500,   "percentUsed": 30 },
+    { "label": "API Requests",   "used": 9000, "limitValue": 15000, "percentUsed": 60 },
+    { "label": "Custom Objects", "used": 45,   "limitValue": 200,   "percentUsed": 23 }
+  ],
+  "orgUsage": [
+    { "label": "Low file usage|users",             "count": 40 },
+    { "label": "Inactive|users",                   "count": 60 },
+    { "label": "Unused profiles|and permission set", "count": 80 },
+    { "label": "Unassigned|roles",                 "count": 20 }
+  ],
+  "licenseUsage": [
+    { "label": "Permission set|Licenses",   "count": 120 },
+    { "label": "User|Licenses",             "count": 200 },
+    { "label": "Feature|Licenses",          "count": 80 },
+    { "label": "Managed package|Licenses",  "count": 300 }
+  ]
+}
