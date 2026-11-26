@@ -1,6 +1,6 @@
 {
   "orgLimits": [
-    { "label": "Data Storage",   "used": 220,  "limitValue": 500,   "percentUsed": 84 },
+    { "label": "Data Storage",   "used": 300,  "limitValue": 500,   "percentUsed": 84 },
     { "label": "File Storage",   "used": 150,  "limitValue": 500,   "percentUsed": 30 },
     { "label": "API Requests",   "used": 9000, "limitValue": 15000, "percentUsed": 60 },
     { "label": "Custom Objects", "used": 45,   "limitValue": 200,   "percentUsed": 23 }
