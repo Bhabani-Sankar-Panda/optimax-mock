@@ -1,0 +1,12 @@
+{
+  "rows": [
+    { "name": "Account",     "api": "Account",     "automations": 238, "workflows": 60, "processes": 45, "flows": 35, "triggers": 80, "approvals": 10, "sharing": 8, "records": 1250 },
+    { "name": "Contact",     "api": "Contact",     "automations": 176, "workflows": 45, "processes": 35, "flows": 30, "triggers": 55, "approvals": 6,  "sharing": 5, "records": 3400 },
+    { "name": "Lead",        "api": "Lead",        "automations": 124, "workflows": 30, "processes": 25, "flows": 20, "triggers": 40, "approvals": 5,  "sharing": 4, "records": 870 },
+    { "name": "Case",        "api": "Case",        "automations": 182, "workflows": 45, "processes": 35, "flows": 28, "triggers": 60, "approvals": 8,  "sharing": 6, "records": 101 },
+    { "name": "Opportunity", "api": "Opportunity", "automations": 204, "workflows": 50, "processes": 40, "flows": 30, "triggers": 70, "approvals": 9,  "sharing": 5, "records": 640 },
+    { "name": "Work Order",  "api": "WorkOrder",   "automations": 132, "workflows": 35, "processes": 25, "flows": 20, "triggers": 45, "approvals": 4,  "sharing": 3, "records": 215 },
+    { "name": "Asset",       "api": "Asset",       "automations": 81,  "workflows": 20, "processes": 15, "flows": 12, "triggers": 30, "approvals": 2,  "sharing": 2, "records": 420 },
+    { "name": "Campaign",    "api": "Campaign",    "automations": 57,  "workflows": 15, "processes": 10, "flows": 10, "triggers": 20, "approvals": 1,  "sharing": 1, "records": 60 }
+  ]
+}
