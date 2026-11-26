@@ -1,0 +1,5 @@
+{
+  "summary": [ { "label": "Unused Fields", "value": 19 } ],
+  "objects": [ { "name": "Account", "fields": 2, "unusedFields": 0, "records": 0 } ],
+  "fields":  [ { "label": "test_field__c" } ]
+}
