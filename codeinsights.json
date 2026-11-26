@@ -1,0 +1,22 @@
+{
+  "rules": [
+    { "key": "debug",    "label": "Debug Statements",               "count": 380 },
+    { "key": "crud",     "label": "CRUD Permission Violations",     "count": 305 },
+    { "key": "hardId",   "label": "Hardcoded Identifiers",          "count": 305 },
+    { "key": "sharing",  "label": "Record Sharing Violations",      "count": 225 },
+    { "key": "hardUrl",  "label": "Hardcoded URLs",                 "count": 225 },
+    { "key": "testData", "label": "Test Data Isolation Violations", "count": 215 },
+    { "key": "csrf",     "label": "CSRF Protection Issues",         "count": 125 },
+    { "key": "soql",     "label": "Unbounded SOQL Queries",         "count": 95 }
+  ],
+  "severity": [
+    { "key": "high",     "label": "High-Risk Issues",   "value": 100, "color": "#F43B30", "legendOrder": 3 },
+    { "key": "low",      "label": "Low-Risk Issues",    "value": 140, "color": "#2A7F4F", "legendOrder": 1 },
+    { "key": "medium",   "label": "Medium-Risk Issues", "value": 60,  "color": "#0A9DDC", "legendOrder": 2 },
+    { "key": "critical", "label": "Critical Issues",    "value": 100, "color": "#FF9B05", "legendOrder": 4 }
+  ],
+  "apiVersions": [
+    { "key": "supported", "label": "Supported API Versions", "value": 310, "color": "#0A9DDC", "legendOrder": 2 },
+    { "key": "outdated",  "label": "Outdated API Versions",  "value": 90,  "color": "#2A7F4F", "legendOrder": 1 }
+  ]
+}
