@@ -1,7 +1,7 @@
 {
   "criticalPermissionPS": 6,
   "lowUsageProfile": 300,
-  "lowUsagePS": 228,
+  "lowUsagePS": 350,
   "unusedProfile": 80,
   "unusedPS": 280,
   "details": [
