@@ -11,9 +11,9 @@
   ],
   "severity": [
     { "key": "high",     "label": "High-Risk Issues",   "value": 100, "color": "#F43B30", "legendOrder": 3 },
-    { "key": "low",      "label": "Low-Risk Issues",    "value": 140, "color": "#2A7F4F", "legendOrder": 1 },
+    { "key": "low",      "label": "Low-Risk Issues",    "value": 100, "color": "#2A7F4F", "legendOrder": 4 },
     { "key": "medium",   "label": "Medium-Risk Issues", "value": 60,  "color": "#0A9DDC", "legendOrder": 2 },
-    { "key": "critical", "label": "Critical Issues",    "value": 100, "color": "#FF9B05", "legendOrder": 4 }
+    { "key": "critical", "label": "Critical Issues",    "value": 140, "color": "#FF9B05", "legendOrder": 1 }
   ],
   "apiVersions": [
     { "key": "supported", "label": "Supported API Versions", "value": 310, "color": "#0A9DDC", "legendOrder": 2 },
