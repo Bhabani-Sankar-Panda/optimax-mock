@@ -4,7 +4,7 @@
     { "key": "crud",     "label": "CRUD Permission Violations",     "count": 305 },
     { "key": "hardId",   "label": "Hardcoded Identifiers",          "count": 305 },
     { "key": "sharing",  "label": "Record Sharing Violations",      "count": 225 },
-    { "key": "hardUrl",  "label": "Hardcoded URLs",                 "count": 25 },
+    { "key": "hardUrl",  "label": "Hardcoded URLs",                 "count": 40 },
     { "key": "testData", "label": "Test Data Isolation Violations", "count": 215 },
     { "key": "csrf",     "label": "CSRF Protection Issues",         "count": 125 },
     { "key": "soql",     "label": "Unbounded SOQL Queries",         "count": 95 }
