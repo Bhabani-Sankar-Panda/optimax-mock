@@ -1,5 +1,5 @@
 {
-  "kpis": {"unusedFields": 32, "inactiveValidationRules": 14, "inactiveReports": 9, "inactiveWorkflows": 6, "inactiveRecordTypes": 4},
+  "kpis": {"unusedFields": 40, "inactiveValidationRules": 14, "inactiveReports": 9, "inactiveWorkflows": 6, "inactiveRecordTypes": 4},
   "objectSummaries": [
     {"apiName": "Account", "label": "Account", "fieldCount": 200, "unused": 25, "records": 10},
     {"apiName": "Contact", "label": "Contact", "fieldCount": 150, "unused": 18, "records": 22},
